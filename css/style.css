@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.title{
+    width: 100vw;   
+    text-align: center;  
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    color: #dc143c;
+    background-color: #0636f6;
+    margin: 0 auto;
+    /* border: 2px solid #000000; */
+}
+
+.container{
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+    border: 2px solid black;
+    height: 80vh;
+}
